@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am holyridax on github.
+  * I am holyridaz (https://keybase.io/holyridaz) on keybase.
+  * I have a public key ASDJc1RwSfVmFduBFAVfIYlcAhK4dGfmuSM1P0hlxmnR1Qo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c973547049f56615db8114055f21895c0212b87467e6b923353f4865c669d1d50a",
+      "host": "keybase.io",
+      "kid": "0120c973547049f56615db8114055f21895c0212b87467e6b923353f4865c669d1d50a",
+      "uid": "5339e11d7484607b8df41782460a6319",
+      "username": "holyridaz"
+    },
+    "merkle_root": {
+      "ctime": 1568143104,
+      "hash": "c59f41750aa5988c919c4fdaaf1cf6e5bd386d7038ce89a152b1d182e69de072555be333c8794fb415d964dacbf66a98dccdb2fbf71e2ece3e894d3e0709fbd0",
+      "hash_meta": "3edc7e53a813304447d6c4786aca181e25937ccc56fd6c4bc7b8771f3a3ff63b",
+      "seqno": 6500994
+    },
+    "service": {
+      "entropy": "drBkM0u9sYk0SfSWHTtM8Psw",
+      "name": "github",
+      "username": "holyridax"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568143114,
+  "expire_in": 504576000,
+  "prev": "1de25c141937cbf7ec96f3679b1dfe07f27ee4379746a24c5c8ac7c33a6c8868",
+  "seqno": 7,
+  "tag": "signature"
+}
+```
+
+with the key [ASDJc1RwSfVmFduBFAVfIYlcAhK4dGfmuSM1P0hlxmnR1Qo](https://keybase.io/holyridaz), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgyXNUcEn1ZhXbgRQFXyGJXAISuHRn5rkjNT9IZcZp0dUKp3BheWxvYWTESpcCB8QgHeJcFBk3y/fslvNnmx3+B/J+5DeXRqJMXIrHwzpsiGjEIDd5c3gUDCJDGT+hhcKr7Zskl+Omb4ACgucC84IPimg9AgHCo3NpZ8RAdE6VXQTsCpfJxLHtM4QpkGCabdPA4aLPWRFlNnA0QyXj8sY7/7SLZHi+WF996WEe9LZBWXZdbNuT/pNBQMYvAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHuC/spGQxJh+aq5Og4e/oy8O/U5WkgBtFpymqI28a+po3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/holyridaz
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id holyridaz
+```
